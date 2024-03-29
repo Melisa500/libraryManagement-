@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 50px;
+}
+
+#form-add-book {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#form-add-book input, #form-add-book button {
+    margin-right: 10px;
+}
